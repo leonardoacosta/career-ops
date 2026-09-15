@@ -1,5 +1,8 @@
 # Personal data (user fills these)
 cv.md
+# Third-party CV PDFs received as references — PII, never commit
+alyssa-demay.pdf
+*.cv-reference.pdf
 article-digest.md
 local/
 # Everything under data/ is generated or personal at runtime — only .gitkeep
